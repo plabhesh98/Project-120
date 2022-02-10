@@ -1,0 +1,78 @@
+h2{
+    color: rgb(31, 252, 2);
+}
+
+.V{
+    color: rgb(31, 252, 2);
+}
+
+.Google{
+    color: black;
+}
+
+.Mobilenet{
+    letter-spacing: 3px;
+    color: white; 
+}
+
+.lens{
+    color: purple;
+}
+
+.Mobile{
+    color: purple;
+}
+
+#Image_Google{
+display: inline-block;
+}
+
+ol h5
+{
+	background: white;
+    padding: 13px;
+    border-radius: 20px;
+    
+}
+
+span
+{
+	color: orange;
+	font-size: 16px;
+}
+
+li img
+{
+	border-radius: 20px;
+}
+
+b
+{
+	color: white;
+}
+
+.mini_result{
+    text-align: center;
+	color: rgb(9, 255, 0);
+}
+
+.test_image_and_result
+{
+    background-color: gray;
+	padding: 30px;
+	border-radius: 20px;
+	margin-top: 50px;
+	box-shadow: 5px 5px 18 red;
+}
+
+.copy_right_footer {
+ position: fixed;
+ color: #f8f8f8;
+ bottom: 0;
+ width: 100%;
+ background-color: rgb(122, 122, 103);
+ line-height: 3;
+ text-align: center;
+font-family: 'Special Elite', cursive;
+
+}
